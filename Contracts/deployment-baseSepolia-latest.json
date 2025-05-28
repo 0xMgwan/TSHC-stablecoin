@@ -1,0 +1,10 @@
+{
+  "network": "baseSepolia",
+  "deployer": "0x4c7455eb3f73f761A2394699EA156196D8a0449D",
+  "priceOracle": "0xe4A05fca88C4F10fe6d844B75025E3415dFe6170",
+  "timestamp": "2025-04-16T10:48:45.406Z",
+  "feeManager": "0x46358DA741d3456dBAEb02995979B2722C3b8722",
+  "batchPayment": "0x9E1e03b06FB36364b3A6cbb6AbEC4f6f2B9C8DdC",
+  "paymaster": "0x7d9687c95831874926bbc9476844674D6B943464",
+  "smartWalletFactory": "0x10dE41927cdD093dA160E562630e0efC19423869"
+}
