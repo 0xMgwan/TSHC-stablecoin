@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" rx="8" fill="#1976d2" opacity="0.1"/>
+  <text x="20" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1976d2">NEDA PAY</text>
+  <circle cx="170" cy="30" r="15" fill="#1976d2"/>
+  <path d="M170 20 L170 40 M160 30 L180 30" stroke="white" stroke-width="3"/>
+</svg>
